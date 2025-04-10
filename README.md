@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -24,10 +24,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ghanshyampaunikar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanshyampaunikar&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
-
----
-
-### 🛠️ Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -67,6 +63,39 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
+---
+
+### 🌟 Featured Projects
+#### [AI-Driven NPC for Gaming](https://github.com/GhanshyamPaunikar/AI-NPC)
+- Built a Unity game with ChatGPT-powered NPCs for dynamic storytelling.  
+- Integrated Meta Lip Sync & Eleven Labs API—45% boost in player engagement!  
+- **Tech**: Python, Unity, Generative AI  
+- **Demo**: <a href="https://youtu.be/XglIWsSAWKk?si=i74AnLz1AJMEcCLR"><img src="https://img.youtube.com/vi/XglIWsSAWKk/0.jpg" height="150" alt="AI NPC Thumbnail" /></a>
+
+#### [Air Calculator](https://github.com/GhanshyamPaunikar/Air-Calculator)
+- Real-time finger-based calculator with 98% accuracy using hand-tracking.
+- Robust across 50+ lighting conditions—pure Python & OpenCV magic!
+- **Tech**: Python, OpenCV
+
+#### [Scalable Mask Detection](https://github.com/ghanshyampaunikar/mask-detection)
+- YOLO-powered CNN with 95% accuracy for real-time mask detection.
+- Scaled to 20+ streams for edge devices in public spaces.
+- **Tech**: TensorFlow, OpenCV, YOLO
+
+#### [Image Resolution Upscaler](https://github.com/ghanshyampaunikar/image-upscaler)
+- SRGAN tool upscaling images by 35% with GPU acceleration.
+- Prototyped for commercial-grade media applications.
+- **Tech**: PyTorch, SRGAN
+
+#### [Driver Sleepiness Alert](https://github.com/ghanshyampaunikar/driver-alert)
+- 94% accurate eye-closure detection with IoT alerts in <0.8s.
+- Optimized for low-resource devices—enhancing road safety!
+- **Tech**: OpenCV, Dlib, IoT
+
+---
+
+### 🛠️ Skills
+
 **🖥️ Programming & Tools**  
 - Python (Pandas, NumPy, PyTorch, OpenCV, Scikit-learn, FastAPI, Matplotlib, Seaborn, Plotly, SciPy)  
 - SQL  
@@ -100,35 +129,6 @@
 
 ---
 
-### 🌟 Featured Projects
-#### [AI-Driven NPC for Gaming](https://github.com/GhanshyamPaunikar/AI-NPC)
-- Built a Unity game with ChatGPT-powered NPCs for dynamic storytelling.  
-- Integrated Meta Lip Sync & Eleven Labs API—45% boost in player engagement!  
-- **Tech**: Python, Unity, Generative AI  
-- **Demo**: <a href="https://youtu.be/XglIWsSAWKk?si=i74AnLz1AJMEcCLR"><img src="https://img.youtube.com/vi/XglIWsSAWKk/0.jpg" height="150" alt="AI NPC Thumbnail" /></a>
-
-#### [Air Calculator](https://github.com/GhanshyamPaunikar/Air-Calculator)
-- Real-time finger-based calculator with 98% accuracy using hand-tracking.
-- Robust across 50+ lighting conditions—pure Python & OpenCV magic!
-- **Tech**: Python, OpenCV
-
-#### [Scalable Mask Detection](https://github.com/ghanshyampaunikar/mask-detection)
-- YOLO-powered CNN with 95% accuracy for real-time mask detection.
-- Scaled to 20+ streams for edge devices in public spaces.
-- **Tech**: TensorFlow, OpenCV, YOLO
-
-#### [Image Resolution Upscaler](https://github.com/ghanshyampaunikar/image-upscaler)
-- SRGAN tool upscaling images by 35% with GPU acceleration.
-- Prototyped for commercial-grade media applications.
-- **Tech**: PyTorch, SRGAN
-
-#### [Driver Sleepiness Alert](https://github.com/ghanshyampaunikar/driver-alert)
-- 94% accurate eye-closure detection with IoT alerts in <0.8s.
-- Optimized for low-resource devices—enhancing road safety!
-- **Tech**: OpenCV, Dlib, IoT
-
----
-
 ### 📜 Certifications
 - [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0Y8DSVXT8GJN) - IBM, Issued Mar 2025
 - [Responsible Generative AI Specialization](https://www.coursera.org/account/accomplishments/specialization/QHT0EF83A674) - University of Michigan
@@ -141,7 +141,7 @@
 
 ### ✨ Let’s Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
