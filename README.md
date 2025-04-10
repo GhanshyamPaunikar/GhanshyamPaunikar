@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -66,6 +66,8 @@
 ---
 
 ### 🌟 Featured Projects
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="120" alt="Funny AI GIF" align="right" />
+
 #### [AI-Driven NPC for Gaming](https://github.com/GhanshyamPaunikar/AI-NPC)
 - Built a Unity game with ChatGPT-powered NPCs for dynamic storytelling.  
 - Integrated Meta Lip Sync & Eleven Labs API—45% boost in player engagement!  
@@ -149,4 +151,4 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-<p align="center">“Code is poetry, and I’m here to write epics.”</p>
+<p align="center">“Data is my playground and i get very creative with it”</p>
