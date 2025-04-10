@@ -7,12 +7,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 ---
 
@@ -31,45 +27,6 @@
 ---
 
 ### 🛠️ Skills
-
-**🖥️ Programming & Tools**  
-- Python (Pandas, NumPy, PyTorch, OpenCV, Scikit-learn, FastAPI, Matplotlib, Seaborn, Plotly, SciPy)  
-- SQL  
-- C#  
-- TensorFlow  
-- PyTorch  
-- Keras  
-- Flask  
-- OpenCV  
-- Scikit-learn  
-
----
-
-**🤖 Machine Learning & AI**  
-- Supervised Learning, Unsupervised Learning, Deep Learning (CNNs, GANs, RNNs, LSTMs)  
-- NLP: BERT, Transformers, ChatGPT API, Large Language Models, Text Classification, Named Entity Recognition, Sentiment Analysis, Tokenization, Word Embeddings  
-- Computer Vision: YOLO, UNet, SSD  
-- Model Optimization, Hyperparameter Tuning, Reinforcement Learning, Retrieval-Augmented Generation (RAG)  
-
----
-
-**📊 Data Analysis & Visualization**  
-- Statistical Modeling, Feature Engineering, Time Series Analysis  
-- Matplotlib, Seaborn, Plotly, Tableau, Power BI  
-- A/B Testing, Data Pipeline Optimization  
-
----
-
-**☁️ Cloud & DevOps**  
-- AWS, GCP, Git  
-
----
-
-**🌟 Soft Skills**  
-- Cross-Functional Collaboration, Technical Leadership, Mentorship, Self-Directed Research  
-- Problem-Solving, Attention to Detail, Passion for Learning, Sharing Knowledge  
-- Proactive Team Player, Exceptional Communication, Stakeholder Engagement  
-- Strategic Thinking, Comfortable Owning Processes, Taking Initiative  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -109,24 +66,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
 
+**🖥️ Programming & Tools**  
+- Python (Pandas, NumPy, PyTorch, OpenCV, Scikit-learn, FastAPI, Matplotlib, Seaborn, Plotly, SciPy)  
+- SQL  
+- C#  
+- TensorFlow  
+- PyTorch  
+- Keras  
+- Flask  
+- OpenCV  
+- Scikit-learn  
+
 ---
 
-### 💼 Work Experience
-#### Sigma AI - Data Analyst  
-**London, UK | April 2024 - Present**
-- Pioneered annotator performance analytics, slashing transcription error rates by 15% with custom metrics and Python insights.
-- Spearheaded data refinement for Google’s Gemini AI, achieving <8% error rates across 10,000+ audio samples.
-- Authored statistical reports, boosting process efficiency by 25% and earning stakeholder praise.
-- Designed automated Tableau dashboards, improving real-time data visibility by 30%.
-- Collaborated cross-functionally to maintain <4% review errors.
+**🤖 Machine Learning & AI**  
+- Supervised Learning, Unsupervised Learning, Deep Learning (CNNs, GANs, RNNs, LSTMs)  
+- NLP: BERT, Transformers, ChatGPT API, Large Language Models, Text Classification, Named Entity Recognition, Sentiment Analysis, Tokenization, Word Embeddings  
+- Computer Vision: YOLO, UNet, SSD  
+- Model Optimization, Hyperparameter Tuning, Reinforcement Learning, Retrieval-Augmented Generation (RAG)  
 
-#### Zummit Infolabs - Data Analyst Intern  
-**Remote | February 2021 - October 2021**
-- Built a UNet-based MRI cancer detection system, improving accuracy by 30% across 1,000+ scans.
-- Revamped data pipelines with augmentation, cutting training times by 15%.
-- Presented to C-suite and medical boards, securing partnerships with top healthcare firms.
-- Led computer vision research with YOLO and SSD, boosting segmentation precision by 20%.
-- Applied A/B testing to optimize deployment, raising adoption rates by 15%.
+---
+
+**📊 Data Analysis & Visualization**  
+- Statistical Modeling, Feature Engineering, Time Series Analysis  
+- Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+- A/B Testing, Data Pipeline Optimization  
+
+---
+
+**☁️ Cloud & DevOps**  
+- AWS, GCP, Git  
 
 ---
 
@@ -159,11 +128,7 @@
 
 ---
 
-### 📚 Education & Certifications
-- **MSc in Data Science & AI** - University of Liverpool, UK
-- **B.E. in Mechanical Engineering** - RTMNU University, India
-
-#### Certifications
+### 📜 Certifications
 - [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) - IBM
 - [Artificial Intelligence](https://www.drdo.gov.in/training/artificial-intelligence) - DRDO, Ministry of Defence, India
 - [Elements of AI](https://www.elementsofai.com/) - University of Helsinki
@@ -177,8 +142,12 @@
 
 ### ✨ Let’s Connect!
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">“Code is poetry, and I’m here to write epics.”</p>
