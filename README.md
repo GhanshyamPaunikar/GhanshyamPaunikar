@@ -10,6 +10,10 @@
   <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ### 🚀 About Me
@@ -24,43 +28,48 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ghanshyampaunikar&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="AI Coding Cat GIF" />
-</div>
-
 ---
 
 ### 🛠️ Skills
-#### Programming & Tools
-- Python (Pandas, NumPy, PyTorch, OpenCV, Scikit-learn, FastAPI, Matplotlib, Seaborn, Plotly, SciPy)
-- SQL
-- C#
-- TensorFlow
-- PyTorch
-- Keras
-- Flask
-- OpenCV
-- Scikit-learn
 
-#### Machine Learning & AI
-- Supervised Learning, Unsupervised Learning, Deep Learning (CNNs, GANs, RNNs, LSTMs)
-- NLP: BERT, Transformers, ChatGPT API, Large Language Models, Text Classification, Named Entity Recognition, Sentiment Analysis, Tokenization, Word Embeddings
-- Computer Vision: YOLO, UNet, SSD
-- Model Optimization, Hyperparameter Tuning, Reinforcement Learning, Retrieval-Augmented Generation (RAG)
+**🖥️ Programming & Tools**  
+- Python (Pandas, NumPy, PyTorch, OpenCV, Scikit-learn, FastAPI, Matplotlib, Seaborn, Plotly, SciPy)  
+- SQL  
+- C#  
+- TensorFlow  
+- PyTorch  
+- Keras  
+- Flask  
+- OpenCV  
+- Scikit-learn  
 
-#### Data Analysis & Visualization
-- Statistical Modeling, Feature Engineering, Time Series Analysis
-- Matplotlib
-- Seaborn
-- Plotly
-- Tableau
-- Power BI
-- A/B Testing, Data Pipeline Optimization
+---
 
-#### Cloud & DevOps
-- AWS
-- GCP
-- Git
+**🤖 Machine Learning & AI**  
+- Supervised Learning, Unsupervised Learning, Deep Learning (CNNs, GANs, RNNs, LSTMs)  
+- NLP: BERT, Transformers, ChatGPT API, Large Language Models, Text Classification, Named Entity Recognition, Sentiment Analysis, Tokenization, Word Embeddings  
+- Computer Vision: YOLO, UNet, SSD  
+- Model Optimization, Hyperparameter Tuning, Reinforcement Learning, Retrieval-Augmented Generation (RAG)  
+
+---
+
+**📊 Data Analysis & Visualization**  
+- Statistical Modeling, Feature Engineering, Time Series Analysis  
+- Matplotlib, Seaborn, Plotly, Tableau, Power BI  
+- A/B Testing, Data Pipeline Optimization  
+
+---
+
+**☁️ Cloud & DevOps**  
+- AWS, GCP, Git  
+
+---
+
+**🌟 Soft Skills**  
+- Cross-Functional Collaboration, Technical Leadership, Mentorship, Self-Directed Research  
+- Problem-Solving, Attention to Detail, Passion for Learning, Sharing Knowledge  
+- Proactive Team Player, Exceptional Communication, Stakeholder Engagement  
+- Strategic Thinking, Comfortable Owning Processes, Taking Initiative  
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
@@ -99,9 +108,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
 </div>
-
-#### Soft Skills
-- Cross-Functional Collaboration, Technical Leadership, Mentorship, Self-Directed Research, Problem-Solving, Attention to Detail, Passion for Learning, Sharing Knowledge, Proactive Team Player, Exceptional Communication, Stakeholder Engagement, Strategic Thinking, Comfortable Owning Processes, Taking Initiative
 
 ---
 
@@ -164,7 +170,7 @@
 - [Responsible Generative AI Specialization](https://www.coursera.org/specializations/responsible-generative-ai) - University of Michigan
 - [Python Programming for Artificial Intelligence](https://www.udemy.com/course/python-for-artificial-intelligence/) - Udemy
 - [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/course/data-science-and-machine-learning-with-python-hands-on/) - Udemy
-- [Data Visualization](https://www.kaggl e.com/learn/data-visualization) - Kaggle
+- [Data Visualization](https://www.kaggle.com/learn/data-visualization) - Kaggle
 - [Artificial Intelligence & Augmented Reality in Unity & Xcode](https://www.udemy.com/course/artificial-intelligence-augmented-reality-in-unity-xcode/) - Udemy
 
 ---
@@ -172,11 +178,7 @@
 ### ✨ Let’s Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
 <p align="center">“Code is poetry, and I’m here to write epics.”</p>
