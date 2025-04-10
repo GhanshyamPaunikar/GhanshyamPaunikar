@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style-for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style-for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
@@ -67,15 +67,8 @@
 </div>
 
 **🖥️ Programming & Tools**  
-- Python (Pandas, NumPy, PyTorch, OpenCV, Scikit-learn, FastAPI, Matplotlib, Seaborn, Plotly, SciPy)  
-- SQL  
-- C#  
-- TensorFlow  
-- PyTorch  
-- Keras  
-- Flask  
-- OpenCV  
-- Scikit-learn  
+- FastAPI  
+- SciPy  
 
 ---
 
@@ -89,13 +82,12 @@
 
 **📊 Data Analysis & Visualization**  
 - Statistical Modeling, Feature Engineering, Time Series Analysis  
-- Matplotlib, Seaborn, Plotly, Tableau, Power BI  
 - A/B Testing, Data Pipeline Optimization  
 
 ---
 
 **☁️ Cloud & DevOps**  
-- AWS, GCP, Git  
+- (Covered in icons: AWS, GCP, Git)  
 
 ---
 
@@ -106,7 +98,7 @@
 - **Tech**: Python, Unity, Generative AI  
 - **Demo**: <a href="https://youtu.be/XglIWsSAWKk?si=i74AnLz1AJMEcCLR"><img src="https://img.youtube.com/vi/XglIWsSAWKk/0.jpg" height="150" alt="AI NPC Thumbnail" /></a>
 
-#### [Air Calculator](https://github.com/ghanshyampaunikar/air-calculator)
+#### [Air Calculator](https://github.com/GhanshyamPaunikar/Air-Calculator)
 - Real-time finger-based calculator with 98% accuracy using hand-tracking.
 - Robust across 50+ lighting conditions—pure Python & OpenCV magic!
 - **Tech**: Python, OpenCV
