@@ -92,7 +92,7 @@
 ---
 
 ### 🌟 Featured Projects
-#### [AI-Driven NPC for Gaming](https://github.com/ghanshyampaunikar/ai-npc-gaming)
+#### [AI-Driven NPC for Gaming](https://github.com/GhanshyamPaunikar/AI-NPC)
 - Built a Unity game with ChatGPT-powered NPCs for dynamic storytelling.  
 - Integrated Meta Lip Sync & Eleven Labs API—45% boost in player engagement!  
 - **Tech**: Python, Unity, Generative AI  
