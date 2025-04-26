@@ -72,7 +72,7 @@
 - Built a Unity game with ChatGPT-powered NPCs for dynamic storytelling.  
 - Integrated Meta Lip Sync & Eleven Labs API—45% boost in player engagement!  
 - **Tech**: Python, Unity, Generative AI  
-- **Demo**: <a href="https://youtu.be/XglIWsSAWKk?si=i74AnLz1AJMEcCLR"><img src="https://img.youtube.com/vi/XglIWsSAWKk/0.jpg" height="150" alt="AI NPC Thumbnail" /></a>
+- **Demo**: <a href="https://youtu.be/K3oz0NNRPio?si=68VDHP098nKTdOyk"><img src="https://img.youtube.com/vi/XglIWsSAWKk/0.jpg" height="150" alt="AI NPC Thumbnail" /></a>
 
 #### [Air Calculator](https://github.com/GhanshyamPaunikar/Air-Calculator)
 - Real-time finger-based calculator with 98% accuracy using hand-tracking.
