@@ -108,6 +108,7 @@
 - Flask  
 - OpenCV  
 - Scikit-learn  
+- Hugging Face Transformers
 
 ---
 
