@@ -14,7 +14,7 @@
 ---
 
 ### 🚀 About Me
-- **Currently**: Data Analyst @ Sigma AI, London, refining AI models like Google’s Gemini with 95%+ accuracy.
+- **Currently**: Data Analyst @ Sigma AI
 - **Passion**: Building innovative ML workflows and mentoring teams to push boundaries.
 - **Fun Fact**: I’ve always been curious why kids mimic abacus moves in the air, so I built an air calculator to make it real!
 - **Motto**: "Transforming data into decisions, one model at a time."
