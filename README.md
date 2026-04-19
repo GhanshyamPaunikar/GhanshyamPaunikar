@@ -133,13 +133,20 @@
 ---
 
 ### 📜 Certifications
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0Y8DSVXT8GJN) - IBM, Issued Mar 2025
-- [Responsible Generative AI Specialization](https://www.coursera.org/account/accomplishments/specialization/QHT0EF83A674) - University of Michigan
-- [Elements of AI](https://certificates.mooc.fi/validate/s769bl1msv) - University of Helsinki
-- [Python Programming for Artificial Intelligence](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d40bae60-f65a-46e0-ab76-6686577de364.pdf) - Datai Team (Udemy)
-- [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/certificate/UC-e757298e-bc16-4d91-9029-53604423d3ba/) - Udemy
-- [Artificial Intelligence & Augmented Reality in Unity & Xcode](https://www.udemy.com/certificate/UC-f367b214-9e87-4b92-8936-1fe7bdc19c75/) - Udemy
-
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0Y8DSVXT8GJN) - IBM  
+- [Generative AI: Elevate Your Data Science Career](https://www.coursera.org/account/accomplishments/verify/INTRKWEDJ5VH) - IBM  
+- [IBM Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/QI5NMFM97ZZJ) - IBM  
+- [Responsible Generative AI Specialization](https://www.coursera.org/account/accomplishments/specialization/QHT0EF83A674) - University of Michigan  
+- [Elements of AI](https://certificates.mooc.fi/validate/s769bl1msv) - University of Helsinki  
+- [Programming in Python](https://www.mygreatlearning.com/certificatea/CVAPCKRS) - NIELIT  
+- [Supervised Machine Learning (Logistic Regression & Naïve Bayes)](https://www.mygreatlearning.com/certificatea/CVAPCKRS) - Great Learning  
+- [Unsupervised Machine Learning (K-Means)](https://www.mygreatlearning.com/certificate/ZDHJWXQJ) - Great Learning  
+- [Machine Learning with Python: Foundations](https://www.linkedin.com/learning/certificates/bf5a20058035852d19771fc4c899cab2ff1933967ad1c164e235f4b602eaf2a3) - LinkedIn  
+- [SQL for Data Analysis](https://www.linkedin.com/learning/certificates/88380d7e247af0f3bd2e7b5c3b72f0f92846044154df163145ea39d3c52b7093) - LinkedIn  
+- [Data Visualization](https://www.kaggle.com/learn/certification/ghanshyampaunikar/data-visualization) - Kaggle  
+- [Python Programming for Artificial Intelligence](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d40bae60-f65a-46e0-ab76-6686577de364.pdf) - Datai Team (Udemy)  
+- [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/certificate/UC-e757298e-bc16-4d91-9029-53604423d3ba/) - Udemy  
+- [Artificial Intelligence & Augmented Reality in Unity & Xcode](https://www.udemy.com/certificate/UC-f367b214-9e87-4b92-8936-1fe7bdc19c75/) - Udemy  
 ---
 
 ### ✨ Let’s Connect!
