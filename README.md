@@ -74,12 +74,6 @@
 - **Tech**: Python, Unity, Generative AI  
 - **Demo**: <a href="https://youtu.be/K3oz0NNRPio?si=68VDHP098nKTdOyk"><img src="https://img.youtube.com/vi/XglIWsSAWKk/0.jpg" height="150" alt="AI NPC Thumbnail" /></a>
 
-#### [Sign Language Translator](https://github.com/GhanshyamPaunikar/Translator-Sign-Language)
-- Real-time sign language recognition system translating gestures into text.  
-- Built using computer vision and deep learning for accessibility solutions.  
-- Designed for real-world usability and scalable deployment.  
-- **Tech**: Python, OpenCV, Deep Learning  
-
 #### [Air Calculator](https://github.com/GhanshyamPaunikar/Air-Calculator)
 - Real-time finger-based calculator with 98% accuracy using hand-tracking.
 - Robust across 50+ lighting conditions—pure Python & OpenCV magic!
@@ -114,7 +108,7 @@
 - Flask  
 - OpenCV  
 - Scikit-learn  
-- Hugging Face Transformers  
+- Hugging Face Transformers
 
 ---
 
@@ -153,7 +147,6 @@
 - [Python Programming for Artificial Intelligence](https://udemy-certificate.s3.amazonaws.com/pdf/UC-d40bae60-f65a-46e0-ab76-6686577de364.pdf) - Datai Team (Udemy)  
 - [Machine Learning, Data Science and Deep Learning with Python](https://www.udemy.com/certificate/UC-e757298e-bc16-4d91-9029-53604423d3ba/) - Udemy  
 - [Artificial Intelligence & Augmented Reality in Unity & Xcode](https://www.udemy.com/certificate/UC-f367b214-9e87-4b92-8936-1fe7bdc19c75/) - Udemy  
-
 ---
 
 ### ✨ Let’s Connect!
@@ -167,3 +160,20 @@
 </div>
 
 <p align="center">“Data is my playground and i get very creative with it”</p>
+
+-----------------------------------------------
+
+add given repo in my project 
+https://github.com/GhanshyamPaunikar/Translator-Sign-Language
+
+
+and give me back the complete markdown file 
+
+
+
+add below repo in my projects 
+
+
+
+
+(https://github.com/GhanshyamPaunikar/Translator-Sign-Language)
