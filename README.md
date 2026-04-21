@@ -1,30 +1,51 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=download&id=10OyapqLmR56UBFzZmGf-hZdtO-mKYsw0" height="200" alt="Profile Image" />
+  <img src="https://drive.google.com/uc?export=download&id=10OyapqLmR56UBFzZmGf-hZdtO-mKYsw0" height="200" />
 </div>
 
 <h2 align="center">Ghanshyam Paunikar</h2>
 
 <p align="center">
-  AI/ML Engineer | Data Analyst | Computer Vision | NLP | Generative AI
+  AI/ML Engineer | Data Scientist | NLP | Computer Vision | Generative AI
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ghanshyampaunikar/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:ghanshyampaunikar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ghanshyampaunikar/">LinkedIn</a> •
+  <a href="mailto:ghanshyampaunikar@gmail.com">Email</a> •
+  <a href="https://github.com/GhanshyamPaunikar">GitHub</a>
 </p>
 
 ---
 
 ## 🚀 Summary
-Results-driven AI/ML Engineer with 3+ years of experience building scalable machine learning systems across **Computer Vision, NLP, and Generative AI**. Proven ability to deliver high-impact solutions using **Python, SQL, Deep Learning, and Cloud technologies**. Strong focus on real-world deployment, performance optimization, and business impact.
+Results-driven AI/ML Engineer with 3+ years of experience building scalable machine learning systems across **Computer Vision, NLP, and Generative AI**. Proven track record of improving model performance, optimizing workflows, and delivering measurable business impact. Experienced in **LLM fine-tuning, deep learning, and real-time AI systems**.
 
 ---
 
 ## 💼 Experience
-**Data Analyst — Sigma AI**  
-- Developed and optimized data pipelines and ML workflows  
-- Applied statistical analysis and machine learning techniques to drive decision-making  
-- Collaborated with cross-functional teams to deliver production-ready solutions  
+
+### Data Analyst — Sigma AI (London)  
+**Apr 2024 – Present**
+- Built and maintained performance dashboards tracking accuracy, error patterns, and trends  
+- Improved transcription accuracy by **7%** through data-driven insights  
+- Reduced error rates by **12%** by collaborating with cross-functional teams  
+- Automated data workflows, improving efficiency by **30%**  
+- Fine-tuned an **LLM** to align with internal transcription guidelines  
+
+---
+
+### Data Scientist — Zummit Info Labs (Remote)  
+**Feb 2021 – Oct 2021**
+- Developed **UNet-based medical image segmentation model** for MRI cancer detection  
+- Improved detection accuracy by **15%** using deep learning techniques  
+- Built preprocessing pipelines (augmentation, normalization) to optimize training  
+- Collaborated with healthcare professionals to refine model performance  
+- Presented technical concepts to non-technical stakeholders  
+
+---
+
+## 🎓 Education
+**MSc Data Science & Artificial Intelligence**  
+University of Liverpool, UK  
 
 ---
 
@@ -32,49 +53,46 @@ Results-driven AI/ML Engineer with 3+ years of experience building scalable mach
 
 ### 🔹 Sign Language Translator  
 https://github.com/GhanshyamPaunikar/Translator-Sign-Language  
-- Built real-time sign language recognition system using computer vision  
-- Translates hand gestures into text for accessibility applications  
-- Designed for real-time inference and scalable deployment  
+- Real-time sign language recognition using computer vision  
+- Converts gestures into text for accessibility applications  
 - **Tech:** Python, OpenCV, Deep Learning  
 
 ---
 
 ### 🔹 AI-Driven NPC for Gaming  
 https://github.com/GhanshyamPaunikar/AI-NPC  
-- Developed intelligent NPCs using LLMs for dynamic storytelling  
-- Improved player engagement by 45% using voice + lip sync integration  
-- **Tech:** Python, Unity, Generative AI, APIs  
+- Built intelligent NPCs using LLMs for dynamic storytelling  
+- Increased player engagement by **45%**  
+- **Tech:** Python, Unity, Generative AI  
 
 ---
 
 ### 🔹 Air Calculator  
 https://github.com/GhanshyamPaunikar/Air-Calculator  
-- Built gesture-based calculator using hand tracking  
-- Achieved 98% accuracy across multiple lighting conditions  
+- Gesture-based calculator using hand tracking  
+- Achieved **98% accuracy** across multiple environments  
 - **Tech:** Python, OpenCV  
 
 ---
 
 ### 🔹 Mask Detection System  
 https://github.com/ghanshyampaunikar/mask-detection  
-- Real-time face mask detection using YOLO-based CNN  
-- Scaled to support multiple real-time video streams  
-- **Tech:** TensorFlow, OpenCV, YOLO  
+- Real-time detection using YOLO-based CNN  
+- Scaled for multiple video streams  
+- **Tech:** TensorFlow, OpenCV  
 
 ---
 
 ### 🔹 Image Upscaler (SRGAN)  
 https://github.com/ghanshyampaunikar/image-upscaler  
-- Implemented super-resolution model to enhance image quality  
-- Optimized for GPU acceleration  
+- Super-resolution model with GPU optimization  
 - **Tech:** PyTorch, GANs  
 
 ---
 
 ### 🔹 Driver Drowsiness Detection  
 https://github.com/ghanshyampaunikar/driver-alert  
-- Real-time eye tracking and alert system  
-- Response time under 0.8 seconds  
+- Real-time eye tracking alert system (<0.8s latency)  
 - **Tech:** OpenCV, Dlib, IoT  
 
 ---
@@ -85,42 +103,37 @@ https://github.com/ghanshyampaunikar/driver-alert
 - Python, SQL, C#
 
 ### Machine Learning & AI
-- Supervised Learning, Unsupervised Learning  
-- Deep Learning (CNNs, RNNs, LSTMs, GANs)  
-- NLP (BERT, Transformers, LLMs, NER, Sentiment Analysis)  
-- Computer Vision (YOLO, OpenCV, UNet, SSD)  
-- Retrieval-Augmented Generation (RAG)  
+- Deep Learning (CNN, RNN, LSTM, GANs)  
+- NLP (BERT, Transformers, LLMs, Sentiment Analysis, NER)  
+- Computer Vision (YOLO, OpenCV, UNet)  
+- LLM Fine-Tuning, Retrieval-Augmented Generation (RAG)  
 
 ### Libraries & Frameworks
 - PyTorch, TensorFlow, Keras  
 - Scikit-learn, Pandas, NumPy  
-- OpenCV, Hugging Face Transformers  
-- Matplotlib, Seaborn, Plotly  
+- Hugging Face Transformers  
 
 ### Data & Analytics
-- Feature Engineering, Statistical Analysis  
-- A/B Testing, Time Series Analysis  
-- Tableau, Power BI  
+- Data Wrangling, ETL Pipelines  
+- Time Series Analysis  
+- Data Visualization (Matplotlib, Seaborn, Plotly, Power BI, Tableau)  
 
 ### Cloud & Tools
-- AWS, GCP, Git  
+- AWS, GCP, Git, GitHub  
 
 ---
 
 ## 📜 Certifications
 - IBM Data Science Professional Certificate  
-- IBM Machine Learning with Python  
-- Responsible Generative AI Specialization  
-- Elements of AI  
-- SQL for Data Analysis  
-- Data Visualization (Kaggle)  
-- Machine Learning & Deep Learning (Udemy)  
+- Artificial Intelligence — DRDO (Ministry of Defence, India)  
+- Elements of AI — University of Helsinki  
+- Machine Learning & Deep Learning with Python — Udemy  
 
 ---
 
 ## 📫 Contact
 - Email: ghanshyampaunikar@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/ghanshyampaunikar/
+- LinkedIn: https://www.linkedin.com/in/ghanshyampaunikar/  
 
 ---
 
