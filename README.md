@@ -1,5 +1,5 @@
 <div align="center">
-https://github.com/user-attachments/assets/c9fd3241-4744-4ae0-bc76-67bfaa5d072d
+<video src="https://github.com/user-attachments/assets/c9fd3241-4744-4ae0-bc76-67bfaa5d072d" autoplay loop muted playsinline width="100%"></video>
 
 # Ghanshyam Paunikar
 
