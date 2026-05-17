@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://drive.google.com/uc?export=download&id=10OyapqLmR56UBFzZmGf-hZdtO-mKYsw0" height="180" style="border-radius: 50%" alt="Ghanshyam Paunikar" />
+<video src="https://raw.githubusercontent.com/GhanshyamPaunikar/GhanshyamPaunikar/main/14478075_1920_1080_30fps.mp4" autoplay loop muted playsinline width="100%"></video>
 
 # Ghanshyam Paunikar
 
