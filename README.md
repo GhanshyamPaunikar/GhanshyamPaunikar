@@ -1,7 +1,6 @@
 <div align="center">
-<video src="https://github.com/user-attachments/assets/c9fd3241-4744-4ae0-bc76-67bfaa5d072d" autoplay loop muted playsinline width="100%"></video>
+  <img width="100%" alt="Profile" src="https://github.com/user-attachments/assets/b2c10181-8d2d-43a7-91d0-6ddae322efd0" />
 
-# Ghanshyam Paunikar
 
 **AI & Data Engineer · Data Scientist · NLP · Computer Vision · Generative AI**
 
