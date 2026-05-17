@@ -1,6 +1,5 @@
 <div align="center">
-
-<video src="https://raw.githubusercontent.com/GhanshyamPaunikar/GhanshyamPaunikar/main/14478075_1920_1080_30fps.mp4" autoplay loop muted playsinline width="100%"></video>
+https://github.com/GhanshyamPaunikar/GhanshyamPaunikar/raw/main/14478075_1920_1080_30fps.mp4
 
 # Ghanshyam Paunikar
 
