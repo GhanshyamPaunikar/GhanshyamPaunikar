@@ -32,7 +32,7 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 | Project | Stack | Link |
 |--------|-------|------|
 | **AI NPC — Living Characters** · GPT-powered NPCs with real-time voice synthesis, emotional responses & facial animation in Unity | `GenAI` `Unity` `C#` `ElevenLabs` | [→ Repo](https://github.com/GhanshyamPaunikar/AI-NPC) |
-| **Reflect AI** · Private AI journal with local LLMs, semantic search & emotion tracking — fully on-device | `LLM` `RAG` `LangChain` `FAISS` | [→ Repo](https://github.com/GhanshyamPaunikar/journal-ai) |
+| **Innerbloom AI** · Private AI journal with local LLMs, semantic search & emotion tracking — fully on-device | `LLM` `RAG` `LangChain` `FAISS` | [→ Repo](https://github.com/GhanshyamPaunikar/journal-ai) |
 | **Image Resolution Upscaler** · 4× super-resolution via Stable Diffusion x4 with Gradio UI | `Stable Diffusion` `PyTorch` `Gradio` | [→ Repo](https://github.com/GhanshyamPaunikar/Image-Resolution-Upscaler) |
 | **F1 Race Predictor** · XGBoost + ensemble trained on 8 seasons of F1 data, live on Railway | `XGBoost` `FastF1` `Vue.js` `Railway` | [→ Repo](https://github.com/GhanshyamPaunikar/f1-race-predictor) |
 | **ASL Sign Language Recogniser** · Real-time ASL alphabet recognition via MediaPipe + PyTorch classifier | `MediaPipe` `PyTorch` `OpenCV` | [→ Repo](https://github.com/GhanshyamPaunikar/Translator-Sign-Language) |
