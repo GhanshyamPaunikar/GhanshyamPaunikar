@@ -29,6 +29,8 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 ## 🚀 Featured Projects
 
+<a href="https://github.com/GhanshyamPaunikar/innerbloom"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/innerbloom/main/docs/media/banner.gif" alt="Innerbloom: a journal that reads you back" width="100%"></a>
+
 | Project | Stack | Link |
 |--------|-------|------|
 | **CJ for Ray-Ban Meta** · Hands-free assistant for Ray-Ban Meta glasses: say "CJ" to book rides, run your Mac, control your TV and smart home, and ship code, in 20+ languages | `Python` `Kotlin` `Gemini` `Android` | [→ Repo](https://github.com/GhanshyamPaunikar/rayban-meta-god-mode) |
