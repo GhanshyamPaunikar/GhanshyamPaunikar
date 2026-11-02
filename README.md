@@ -41,27 +41,6 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 ---
 
-## 📜 Certifications
-
-| Certification | Issuer | Verify |
-|--------------|--------|--------|
-| Data Science Professional Certificate | IBM | [↗](https://www.coursera.org/account/accomplishments/professional-cert/0Y8DSVXT8GJN) |
-| Generative AI: Elevate Your Data Science Career | IBM | [↗](https://www.coursera.org/account/accomplishments/verify/INTRKWEDJ5VH) |
-| Machine Learning with Python | IBM | [↗](https://www.coursera.org/account/accomplishments/verify/QI5NMFM97ZZJ) |
-| Responsible Generative AI Specialisation | University of Michigan | [↗](https://www.coursera.org/account/accomplishments/specialization/QHT0EF83A674) |
-| Elements of AI | University of Helsinki | [↗](https://certificates.mooc.fi/validate/s769bl1msv) |
-| Artificial Intelligence | DRDO, Govt. of India | — |
-| Supervised ML — Logistic Regression & Naïve Bayes | Great Learning | [↗](https://www.mygreatlearning.com/certificate/CVAPCKRS) |
-| Unsupervised Machine Learning — K-Means | Great Learning | [↗](https://www.mygreatlearning.com/certificate/ZDHJWXQJ) |
-| Machine Learning with Python — Foundations | LinkedIn Learning | [↗](https://www.linkedin.com/learning/certificates/bf5a20058035852d19771fc4c899cab2ff1933967ad1c164e235f4b602eaf2a3) |
-| SQL for Data Analysis | LinkedIn Learning | [↗](https://www.linkedin.com/learning/certificates/88380d7e247af0f3bd2e7b5c3b72f0f92846044154df163145ea39d3c52b7093) |
-| Data Visualization | Kaggle | [↗](https://www.kaggle.com/learn/certification/ghanshyampaunikar/data-visualization) |
-| ML, Data Science & Deep Learning with Python | Udemy | [↗](https://www.udemy.com/certificate/UC-e757298e-bc16-4d91-9029-53604423d3ba/) |
-| Python Programming for Artificial Intelligence | Udemy | [↗](https://www.udemy.com/certificate/UC-d40bae60-f65a-46e0-ab76-6686577de364/) |
-| Artificial Intelligence & AR in Unity + Xcode | Udemy | [↗](https://www.udemy.com/certificate/UC-f367b214-9e87-4b92-8936-1fe7bdc19c75/) |
-
----
-
 ## 🎓 Education
 
 **MSc Data Science & Artificial Intelligence** · University of Liverpool, UK
