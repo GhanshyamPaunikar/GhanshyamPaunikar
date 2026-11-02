@@ -41,25 +41,6 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-`Python` `SQL` `C#`
-
-**ML / Deep Learning**
-`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `Hugging Face` `BERT` `Transformers` `RAG` `Reinforcement Learning`
-
-**Computer Vision / NLP**
-`OpenCV` `YOLO` `UNet` `SRGAN` `MediaPipe` `CNNs` `LSTMs` `NER` `Sentiment Analysis`
-
-**Data & Cloud**
-`Tableau` `Power BI` `Plotly` `AWS` `GCP` `Docker` `Git` `A/B Testing`
-
-**Generative AI**
-`ChatGPT API` `LangChain` `ElevenLabs` `Stable Diffusion` `FAISS` `LLM Fine-tuning`
-
----
-
 ## 📜 Certifications
 
 | Certification | Issuer | Verify |
@@ -81,19 +62,6 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 ---
 
-## 💼 Experience
-
-**Data Analyst — Sigma AI** *(London · Apr 2024 – Present)*
-- Improved transcription accuracy by **7%** and reduced error rates by **12%**
-- Fine-tuned an LLM aligned with internal quality guidelines
-- Automated QA workflows → **30% efficiency boost**
-
-**Data Scientist — Zummit Info Labs** *(Remote · Feb 2021 – Oct 2021)*
-- UNet-based MRI segmentation model improving cancer detection accuracy by **15%**
-- Built preprocessing pipelines (augmentation, normalisation, multi-format ETL)
-
----
-
 ## 🎓 Education
 
 **MSc Data Science & Artificial Intelligence** · University of Liverpool, UK
@@ -109,18 +77,5 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshyamPaunikar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GhanshyamPaunikar&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghanshyampaunikar/)
-[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ghanshyampaunikar.com)
-
-*"Data is my playground and I get very creative with it."*
 
 </div>
