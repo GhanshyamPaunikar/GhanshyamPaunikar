@@ -29,66 +29,11 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 ## 🚀 Featured Projects
 
-### CJ for Ray-Ban Meta
+<a href="https://github.com/GhanshyamPaunikar/rayban-meta-god-mode"><img src="assets/cj.gif" width="100%"></a>
 
-<a href="https://github.com/GhanshyamPaunikar/rayban-meta-god-mode"><img src="assets/cj.gif" alt="CJ for Ray-Ban Meta" width="100%"></a>
+<p align="center"><b>CJ for Ray-Ban Meta</b> — Hands-free assistant for Ray-Ban Meta glasses<br><sub>Python · Kotlin · Gemini · Android · <a href="https://github.com/GhanshyamPaunikar/rayban-meta-god-mode">Repo</a></sub></p>
 
-Hands-free assistant for Ray-Ban Meta glasses  
-<sub>Python · Kotlin · Gemini · Android</sub> · <a href="https://github.com/GhanshyamPaunikar/rayban-meta-god-mode">Repo</a>
-
-<br>
-
-### Innerbloom
-
-<a href="https://github.com/GhanshyamPaunikar/innerbloom"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/innerbloom/main/docs/media/banner.gif" alt="Innerbloom" width="100%"></a>
-
-Private AI journal that runs fully on your own computer  
-<sub>LLM · RAG · LangChain · FAISS</sub> · <a href="https://github.com/GhanshyamPaunikar/innerbloom">Repo</a> · <a href="https://ghanshyampaunikar.com/innerbloom">Live</a>
-
-<br>
-
-### AI NPC
-
-<a href="https://github.com/GhanshyamPaunikar/AI-NPC"><img src="assets/npc.gif" alt="AI NPC" width="100%"></a>
-
-Unity characters with GPT dialogue, voice and facial animation  
-<sub>Unity · C# · GenAI · ElevenLabs</sub> · <a href="https://github.com/GhanshyamPaunikar/AI-NPC">Repo</a>
-
-<br>
-
-### Piano Tutor
-
-<a href="https://github.com/GhanshyamPaunikar/piano-tutor"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/piano-tutor/main/docs/media/banner.gif" alt="Piano Tutor" width="100%"></a>
-
-Learn piano with falling notes and any MIDI keyboard  
-<sub>JavaScript · Electron · Web MIDI</sub> · <a href="https://github.com/GhanshyamPaunikar/piano-tutor">Repo</a> · <a href="https://ghanshyampaunikar.com/pianotutor">Live</a>
-
-<br>
-
-### Carbon Watcher
-
-<a href="https://github.com/GhanshyamPaunikar/carbonwatcher"><img src="assets/carbon.gif" alt="Carbon Watcher" width="100%"></a>
-
-Energy, carbon and cost tracking for ML runs and LLM calls  
-<sub>Python · CLI</sub> · <a href="https://github.com/GhanshyamPaunikar/carbonwatcher">Repo</a>
-
-<br>
-
-### ASL Sign Language Recogniser
-
-<a href="https://github.com/GhanshyamPaunikar/Translator-Sign-Language"><img src="assets/asl.gif" alt="ASL Sign Language Recogniser" width="100%"></a>
-
-Real-time ASL alphabet recognition from a webcam  
-<sub>MediaPipe · PyTorch · OpenCV</sub> · <a href="https://github.com/GhanshyamPaunikar/Translator-Sign-Language">Repo</a>
-
-<br>
-
-### F1 Race Predictor
-
-<a href="https://github.com/GhanshyamPaunikar/f1-race-predictor"><img src="assets/f1.gif" alt="F1 Race Predictor" width="100%"></a>
-
-Race outcome predictions from 8 seasons of F1 data  
-<sub>XGBoost · FastF1 · Vue.js · Railway</sub> · <a href="https://github.com/GhanshyamPaunikar/f1-race-predictor">Repo</a>
+<table><tr><td width="33%" valign="top"><a href="https://github.com/GhanshyamPaunikar/innerbloom"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/innerbloom/main/docs/media/banner.gif" width="100%"></a><br><b><a href="https://github.com/GhanshyamPaunikar/innerbloom">Innerbloom</a></b><br><sub>Private AI journal that runs fully on your computer</sub></td><td width="33%" valign="top"><a href="https://github.com/GhanshyamPaunikar/piano-tutor"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/piano-tutor/main/docs/media/banner.gif" width="100%"></a><br><b><a href="https://github.com/GhanshyamPaunikar/piano-tutor">Piano Tutor</a></b><br><sub>Learn piano with falling notes and any MIDI keyboard</sub></td><td width="33%" valign="top"><a href="https://github.com/GhanshyamPaunikar/AI-NPC"><img src="assets/npc.gif" width="100%"></a><br><b><a href="https://github.com/GhanshyamPaunikar/AI-NPC">AI NPC</a></b><br><sub>Unity characters with GPT dialogue and voice</sub></td></tr><tr><td width="33%" valign="top"><a href="https://github.com/GhanshyamPaunikar/carbonwatcher"><img src="assets/carbon.gif" width="100%"></a><br><b><a href="https://github.com/GhanshyamPaunikar/carbonwatcher">Carbon Watcher</a></b><br><sub>Carbon and cost tracking for ML runs</sub></td><td width="33%" valign="top"><a href="https://github.com/GhanshyamPaunikar/Translator-Sign-Language"><img src="assets/asl.gif" width="100%"></a><br><b><a href="https://github.com/GhanshyamPaunikar/Translator-Sign-Language">ASL Recogniser</a></b><br><sub>Real-time ASL alphabet recognition</sub></td><td width="33%" valign="top"><a href="https://github.com/GhanshyamPaunikar/f1-race-predictor"><img src="assets/f1.gif" width="100%"></a><br><b><a href="https://github.com/GhanshyamPaunikar/f1-race-predictor">F1 Race Predictor</a></b><br><sub>Race predictions from 8 seasons of data</sub></td></tr></table>
 
 ---
 
