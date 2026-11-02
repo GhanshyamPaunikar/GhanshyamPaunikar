@@ -29,19 +29,19 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 ## 🚀 Featured Projects
 
-<a href="https://github.com/GhanshyamPaunikar/rayban-meta-god-mode"><img src="assets/cj.svg" alt="CJ for Ray-Ban Meta" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/rayban-meta-god-mode"><img src="assets/cj.gif" alt="CJ for Ray-Ban Meta" width="100%"></a>
 
 <a href="https://github.com/GhanshyamPaunikar/innerbloom"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/innerbloom/main/docs/media/banner.gif" alt="Innerbloom" width="100%"></a>
 
-<a href="https://github.com/GhanshyamPaunikar/AI-NPC"><img src="assets/npc.svg" alt="AI NPC" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/AI-NPC"><img src="assets/npc.gif" alt="AI NPC" width="100%"></a>
 
 <a href="https://github.com/GhanshyamPaunikar/piano-tutor"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/piano-tutor/main/docs/media/banner.gif" alt="Piano Tutor" width="100%"></a>
 
-<a href="https://github.com/GhanshyamPaunikar/carbonwatcher"><img src="assets/carbon.svg" alt="Carbon Watcher" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/carbonwatcher"><img src="assets/carbon.gif" alt="Carbon Watcher" width="100%"></a>
 
-<a href="https://github.com/GhanshyamPaunikar/Translator-Sign-Language"><img src="assets/asl.svg" alt="ASL Sign Language Recogniser" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/Translator-Sign-Language"><img src="assets/asl.gif" alt="ASL Sign Language Recogniser" width="100%"></a>
 
-<a href="https://github.com/GhanshyamPaunikar/f1-race-predictor"><img src="assets/f1.svg" alt="F1 Race Predictor" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/f1-race-predictor"><img src="assets/f1.gif" alt="F1 Race Predictor" width="100%"></a>
 
 ---
 
