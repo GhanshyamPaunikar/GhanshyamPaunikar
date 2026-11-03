@@ -39,7 +39,7 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 <sub>02</sub>
 
-<a href="https://github.com/GhanshyamPaunikar/innerbloom"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/innerbloom/main/docs/media/banner.gif" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/innerbloom"><img src="assets/innerbloom.gif" width="100%"></a>
 
 <p align="center"><b>Innerbloom</b> · Private AI journal that runs fully on your computer<br><sub>LLM · RAG · LangChain · FAISS · <a href="https://github.com/GhanshyamPaunikar/innerbloom">Repo</a> · <a href="https://ghanshyampaunikar.com/innerbloom">Live</a></sub></p>
 
@@ -47,7 +47,7 @@ Pune-based AI & Data practitioner, previously Data Analyst at Sigma AI. I build 
 
 <sub>03</sub>
 
-<a href="https://github.com/GhanshyamPaunikar/piano-tutor"><img src="https://raw.githubusercontent.com/GhanshyamPaunikar/piano-tutor/main/docs/media/banner.gif" width="100%"></a>
+<a href="https://github.com/GhanshyamPaunikar/piano-tutor"><img src="assets/piano.gif" width="100%"></a>
 
 <p align="center"><b>Piano Tutor</b> · Learn piano with falling notes and any MIDI keyboard<br><sub>JavaScript · Electron · Web MIDI · <a href="https://github.com/GhanshyamPaunikar/piano-tutor">Repo</a> · <a href="https://ghanshyampaunikar.com/pianotutor">Live</a></sub></p>
 
